@@ -24,3 +24,17 @@ h2 {
 h3 {
 	font-size: 24px;
 }
+
+a:link, a:visited{
+	color: #333;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #709fdb;
+}
+
+ul li {
+	list-style-type: square;
+	color: #666;
+}
