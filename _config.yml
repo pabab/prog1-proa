@@ -1,7 +1,7 @@
 # Setup
 title:        "Programación I"
 tagline:      "PROA: Escuela Experimental San Francisco"
-baseurl:      "prog1-proa"
+baseurl:      "/prog1-proa"
 paginate:     1
 
 # About/contact
